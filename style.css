@@ -1,0 +1,138 @@
+h1{
+    font-size: 40px;
+    margin-top: 90px;
+    margin-bottom: 0px;
+}
+
+body{
+    font-family: 'Titillium Web', sans-serif;
+}
+.top-banner{
+    height: 700px;
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
+
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 8%;
+    padding-left: 2%;
+    margin-top: 100px;
+    
+    
+}
+
+.pink-color{
+    color: orangered;
+    margin-top: 0px;
+    font-size: 70px;
+    
+}
+.half-width img{
+    width: 100%;
+}
+#half-width1{
+    margin-left: 0%;
+    padding-left: 0%;
+}
+p{
+    font-size: 20px;
+    color: black;
+    margin-top: 30px;
+}
+
+.middle-banner{
+    height: 800px;
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-size: 140%
+}
+    
+.center{
+    text-align:center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 0px;
+    margin-bottom: 80px;
+    font-size: 30px;
+
+}
+.pictures img{
+    float: left;
+    width: 30%
+    
+
+}
+.pictures{
+    padding-left: 2%;
+    margin-left: 3%;
+}
+.last-work{
+    height: 600px;
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+
+.new{
+    background-color: tomato;
+    margin-left: 350px;
+    margin-right: 350px;
+    height: 100px;
+    text-align: center;
+    padding-top: 40px;
+    margin-top: 60px;
+}
+#button{
+    font-size: 20px;
+    
+}
+#center2{
+    text-align:center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 50px;
+}
+.link-button{
+    text-decoration: none;
+    font-size: 30px;
+    color: white;
+}
+.last{
+    color:black;
+    margin:0px;
+    
+}
+h3{
+    margin-top: 0px;
+    font-size: 15px;
+    margin-bottom: 25px;
+}
+h2{
+    margin-bottom: 100px;
+    font-size: 50px;
+}
+#name{
+    font-size: 30px;
+}
+#last-footer{
+    height: 600px;
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+   
+.last-make{
+    text-align: center;
+    
+    
+}
+
+#copy{
+    font-size: 20px;
+    color: red;
+    font-weight: bold;
+}
